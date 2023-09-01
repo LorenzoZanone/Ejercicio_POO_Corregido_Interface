@@ -108,9 +108,9 @@ public class ShopOnLine {
                     Remera remera = CrearRemera(opcion_enum, precio, desc);
 
                     venta.agregarProducto(remera);
-                     {
+                     
 
-                    }
+                    
                     break;
                 case 2:
                     String modelo = JOptionPane.showInputDialog("Digite el modelo de su pantalon: a - Oxford -b Skinny - c- Recto");
