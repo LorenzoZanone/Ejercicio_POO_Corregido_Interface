@@ -18,7 +18,7 @@ public class ShopOnLine {
     static int ingresar = 1;
 
     public static void main(String[] args) {
-        //int ingresar = 0;
+      
         Cliente cliente = CrearCliente();
         Venta venta = CrearVenta(cliente);
 
