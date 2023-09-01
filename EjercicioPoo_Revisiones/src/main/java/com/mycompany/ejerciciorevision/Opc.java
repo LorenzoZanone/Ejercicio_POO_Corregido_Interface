@@ -5,7 +5,7 @@
 package com.mycompany.ejerciciorevision;
 
 /**
- * Talles realizado por Mel
+ * Opc realizado por Mel
  * @author ET36
  */
 public enum Opc {
